@@ -20,6 +20,8 @@ import Data.Char (digitToInt, isAlpha, toLower , toUpper )
 
 4.
 
+>  sas 
+
 5.
 
 6.
